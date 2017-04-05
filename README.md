@@ -6,7 +6,13 @@ Default
   |-- Header.js
   |-- Wrapper.js
   |-- index.js
+
+MultipleComponentsOneStyleFile
+  |-- Button.js
+  |-- Header.js
+  |-- Wrapper.js
   |-- styles.js
+  |-- index.js
 
 EverythingInOneFile
   |-- index.js
