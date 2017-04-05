@@ -1,0 +1,22 @@
+{
+  "name": "styled-components-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbue/styled-components-structure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbue/styled-components-structure/issues"
+  },
+  "homepage": "https://github.com/robbue/styled-components-structure#readme",
+  "dependencies": {
+    "mddir": "^1.1.0"
+  }
+}
